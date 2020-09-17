@@ -4,7 +4,8 @@
 
     ***`cordova platform add android`***
     
-3. You can either install the plugin thorough npm or by downloading from downloads page, Cordova Account Plugin. 
+3. You can either install the plugin thorough npm or by downloading from downloads page, [Cordova Account Plugin](https://developer.huawei.com/consumer/en/doc/development/HMS-Plugin-Library/cordova-plugin-0000001051090052). <br>
+    
     a. Run the following command in the root directory of your Cordova project to install it through npm. 
     
     ***`cordova plugin add @hmscore/cordova-plugin-hms-account `***
